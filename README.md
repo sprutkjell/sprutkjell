@@ -1,4 +1,19 @@
-### Hi there 👋
+```
+                               _.._
+                             .'    '.
+                            (____/`\ \
+                           (  |' ' )  )
+                           )  _\= _/  (
+                 __..---.(`_.'  ` \    )
+                `;-""-._(_( .      `; (
+                /       `-`'--'     ; )
+               /    /  .    ( .  ,| |(
+_.-`'---...__,'    /-,..___.-'--'_| |_)
+'-'``'-.._       ,'  |   / .........'
+   jgs    ``;--"`;   |   `-`
+             `'..__.'
+```
+- ⚡ Fun fact: 6 mins – is how long it takes for the brain to start to react to alcohol.
 
 <!--
 **sprutkjell/sprutkjell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
